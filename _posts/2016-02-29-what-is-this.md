@@ -1,9 +1,9 @@
 ---
 layout: post
-title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
+title: How to click awesome photos without a DSLR?
+excerpt: " Don't have a big budget to buy a fancy DSLR and extra set of lens"
+modified: 6/10/2016, 11:40:24
+tags: [Photography, low budget, DSLR]
 comments: true
 ---
 
