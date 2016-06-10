@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title:            Site Title
+title:            My Portfolio
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Nikhil Rastogi
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I am a Graduate student at North Carolina State University."
+  email: nrastog@ncsu.edu
   disqus-shortname:
   twitter: #username
-  facebook: #username
-  google:
+  facebook: nikhilrstg
+  google: nikhilrstg
     plus: #username
     analytics:
     verify:
